@@ -6,6 +6,6 @@
 *Return: 0 if exited properly,no n-zero otherwise
 */
 int main(void)
-{puts("\"Programming is like builiding a multilingual puzz");
+{puts("\"Programming is like builiding a multilingual puzzle");
 return (0);
 }
