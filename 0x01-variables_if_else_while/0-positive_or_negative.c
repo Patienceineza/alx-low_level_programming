@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 /**
-*mai - get random number and print the number
+*main - get random number and print the number
 *check if it is positive or negative
-*Return 0 if correctly ended
+*Return: 0 if correctly ended
 */
 int main(void)
 {
