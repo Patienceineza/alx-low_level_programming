@@ -5,7 +5,7 @@
 *by new line
 *Return: 0 (success)
 */
-int main(void)
+void print_alphabet(void)
 {
 char ch;
 ch = 'a';
