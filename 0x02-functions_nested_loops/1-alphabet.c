@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include "main.h"
 /**
-*main - prints aplhabets in lower case followed
-*by new line
-*Return: 0 (success)
+*print_alphabet  - prints aplhabets in lower
+*case followed by new line
 */
 void print_alphabet(void)
 {
