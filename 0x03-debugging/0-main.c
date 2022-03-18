@@ -7,7 +7,7 @@
 int main(void)
 {
 int i;
-i = 0;
+i = 98;
 
 positive_0r_negative(i);
 
