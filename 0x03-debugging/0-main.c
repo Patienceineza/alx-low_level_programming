@@ -1,14 +1,13 @@
 #include "main.h"
 /**
-*_isupper - function thet checks for upper
-*case letters
-*@c: int type member
-*Return: 1 if uppercase, else 0
+*main - tests function thet prints if intiger
+*is positive or negative 
+*Return: 0
 */
-int _isupper(int c)
+int main(void)
 {
-if ((c >= 'A') && (c <= 'Z'))	
-return (1);
-else
+int i;
+i = 0;
+positive _or_negative(i);
 return (0);
 }
