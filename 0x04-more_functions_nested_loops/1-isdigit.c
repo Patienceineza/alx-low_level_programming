@@ -1,6 +1,6 @@
 #include "main.h"
 /*
-* _isdigitg-gif is a digit
+* _isdigit - if is a digit
 * @c: print int
 * Return: always 0
 */
@@ -13,6 +13,6 @@ return (1);
 }
 else
 {
-return(0)
+return(0);
 }
 }
