@@ -12,8 +12,10 @@ while (*s != '\0')
 /* Declring while */	
 {  
 if (*s == c)
+/* if s == c */	
 {
 return (s);
+/* return s*/
 }
 ++s;
 }
@@ -22,4 +24,5 @@ if (*s == c)
 return (s);
 }
 return (0);
+/* value null */
 }
