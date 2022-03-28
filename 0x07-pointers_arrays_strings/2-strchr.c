@@ -10,7 +10,7 @@ char *_strchr(char *s, char c)
 {
 while (*s != '\0')
 /* Declring while */	
-{  
+{      	
 if (*s == c)
 /* if s == c */	
 {
