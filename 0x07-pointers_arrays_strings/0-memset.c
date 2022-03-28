@@ -12,7 +12,9 @@ unsigned int i;
 /* Declaring FOR */
 for (i = 0; i < n; i++)
 {
-*(s + i) = b;/*add 1 position s */
-}/* end for*/
+*(s + i) = b;
+/*add 1 position s */
+}
+/* end for*/
 return (s);
 }
