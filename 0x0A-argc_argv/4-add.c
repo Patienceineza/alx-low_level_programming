@@ -3,9 +3,9 @@
 #include <ctype.h>
 #include <string.h>
 /**
- * check_num - check - string there are digit
+ *check_num - check - string there are digit
  *@str: array str
- * Return; Always 0 (Success)
+ * Return:  always 0 (Success)
  **/
 int check_num(char *str)
 {
@@ -23,10 +23,10 @@ count++;
 return (1);
 }
 /**
- * main - Print the name of the program
+ *main - Print the name of the program
  * @argc: Count arguments
  * @argv: Arguments
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  **/
 int main(int argc, char *argv[])
 {
